@@ -18,12 +18,14 @@ General Keith Alexander is here
 to tackle tech's role
 in counter-terrorism,
 处理技术的作用
+在反恐，
 
 5
 00:00:12,523 --> 00:00:15,191
 but first, a quick glimpse
 with Richard Hendricks,
-但首先，快速一瞥
+但第一，快速glimpse
+理查德-亨德里克斯，
 
 6
 00:00:15,293 --> 00:00:16,258
@@ -34,7 +36,8 @@ founder and CEO
 00:00:16,360 --> 00:00:18,794
 of the hot new compression
 platform Pied Piper,
-热压缩新
+of the New压缩热
+平台脚吹笛，
 
 8
 00:00:18,896 --> 00:00:21,764
@@ -56,12 +59,14 @@ it is just splendid to be here with you,
 at historical Pier Three,
 with a breathtaking view
 在历史码头三，
+以惊人的观点
 
 12
 00:00:28,539 --> 00:00:30,306
 of the
 Embarcadero Center
-的
+of the
+内河码头中心
 
 13
 00:00:30,408 --> 00:00:32,308
@@ -88,30 +93,35 @@ this technology in my incubator.
 I am listed--
 I was originally listed
 我列出了--
+我最初被列为
 
 18
 00:00:39,851 --> 00:00:42,184
 under the white pages
 as "Erlich Blachman,"
 在白纸下
+“埃利希Blachman，”
 
 19
 00:00:42,286 --> 00:00:45,120
 uh, with an "L," a typo that
 apparently couldn't be changed,
 嗯，有一个“L”型，
+显然无法改变，
 
 20
 00:00:45,223 --> 00:00:48,190
 and then Google indexed it, so
 I've been dealing with that.
 然后谷歌索引它，所以
+我一直在处理这个。
 
 21
 00:00:48,292 --> 00:00:52,795
 Richard, Pied Piper has
 taken off like a rocket.
 李察，吹笛手了
+像火箭起飞。
 
 22
 00:00:52,897 --> 00:00:54,663
@@ -143,6 +153,7 @@ And you have a last-minute invite
 to the "Vanity Fair"
 Summit dinner tonight.
 “名利场”
+峰会今晚的晚餐。
 
 28
 00:01:04,075 --> 00:01:06,742
@@ -154,12 +165,14 @@ Quite an honor for such a young company.
 Richard, maybe you can
 comment on this one?
 李察，也许你可以
+评论这一件？
 
 30
 00:01:08,346 --> 00:01:11,780
 Yeah, we are the-- finally
 the-- the belles of the balls.
 是的，我们是最后的
+——美女的球。
 
 31
 00:01:11,883 --> 00:01:13,582
@@ -171,6 +184,7 @@ I mean, uh, ball.
 Now, some people are calling
 you the next unicorn.
 现在，有些人在呼唤
+你的下一个独角兽。
 
 33
 00:01:18,990 --> 00:01:20,789
@@ -187,6 +201,7 @@ You could have a billion-dollar company.
 Erlich, you could own five
 percent of a billion dollars.
 法国，你可以拥有五
+百分之十亿美元。
 
 36
 00:01:27,498 --> 00:01:28,731
@@ -203,12 +218,14 @@ Richard, this is boring.
 - Shit.
 - No, no, no.
 -该死。
+•不，不，不
 
 39
 00:01:30,968 --> 00:01:32,768
 He was--
 he was an early investor.
 他——
+他是早期的投资者。
 
 40
 00:01:32,870 --> 00:01:34,770
@@ -220,6 +237,7 @@ Again, it's... Erlich Bachman.
 If you Google that, it'll say,
 "Did you mean Erlich Blachman?"
 如果你谷歌，它会说，
+“你的意思是埃利希Blachman？”
 
 42
 00:01:38,543 --> 00:01:39,708
@@ -231,6 +249,7 @@ You can click on that link,
 it'll give you the correct
 results for Erlich Bachman.
 它会给你正确的
+巴赫曼对法国的结果。
 
 44
 00:01:42,580 --> 00:01:45,047
@@ -252,24 +271,28 @@ I just know what I saw, Richard.
 No, come on. Look, she's married,
 she just had another baby.
 不，来。看，她结婚了，
+她只是有了另一个孩子。
 
 48
 00:01:52,890 --> 00:01:56,525
 If you pushed a little harder, you could
 have scored right there on camera.
 如果你努力的话，你可以
+在相机上有得分。
 
 49
 00:01:56,627 --> 00:01:58,427
 - You should get her phone number.
 - Shut up.
 •你应该得到她的电话号码。
+-闭嘴。
 
 50
 00:01:59,931 --> 00:02:03,832
 Oh. This is actually, uh,
 Jian-Yang pranking me.
 哦.这实际上是，嗯，
+建阳整我。
 
 51
 00:02:03,935 --> 00:02:05,000
@@ -281,12 +304,14 @@ I should take it.
 Yes, of course I have frog's legs.
 Why do you ask?
 是的，当然我有青蛙的腿。
+你为什么要问？
 
 53
 00:02:10,508 --> 00:02:14,810
 Are you serious? Have you honestly still
 not told him that you sold your shares?
 你是认真的吗？你真的仍然
+不是告诉他你卖掉了你的股份吗？
 
 54
 00:02:14,912 --> 00:02:16,445
@@ -318,12 +343,14 @@ Come on, it's been ten days.
 I know, I know, but, you
 know, the TechCrunch thing
 我知道，我知道，但是，你
+知道，TechCrunch的事
 
 60
 00:02:24,922 --> 00:02:26,455
 came up and then there
 was the Reddit AMA
 出现在那里
+在Reddit AMA
 
 61
 00:02:26,557 --> 00:02:28,824
@@ -335,12 +362,14 @@ and, you know, now this Bloomberg thing.
 And besides, let's be honest, Richard
 shouldn't be in the public eye
 再说，让我们诚实，李察
+不应该在公众的眼睛
 
 63
 00:02:31,596 --> 00:02:35,798
 without me along to help. Did you see the
 skeeved-out look on Emily Chang's face?
 没有我一起帮助。你看见了吗
+skeeved了艾米丽长的脸看吗？
 
 64
 00:02:35,900 --> 00:02:37,266
@@ -357,24 +386,28 @@ Erlich, you're lying to him,
 and you made me a part of it,
 so now I'm lying to him, too.
 你让我做了一个部分，
+所以现在我也对他撒谎了。
 
 67
 00:02:42,006 --> 00:02:43,973
 The longer you wait, the
 worse this is gonna get.
 你等待的时间越长，
+更糟糕的是要得到。
 
 68
 00:02:44,075 --> 00:02:46,208
 - All right, fine, I'll tell him.
 - When?
 好吧，好吧，我会告诉他。
+-什么时候？
 
 69
 00:02:46,310 --> 00:02:49,244
 After the "Vanity Fair" thing tonight.
 I mean, did you see the guest list?
 在“名利场”今晚的事情。
+我是说，你看到了客人名单了吗？
 
 70
 00:02:49,347 --> 00:02:50,879
@@ -391,12 +424,14 @@ Monica, throw me a bone here.
 - Fine, I'll tell him. I'll tell Richard.
 - I'm serious.
 -好的，我会告诉他。我会告诉李察。
+•我是认真的。
 
 73
 00:02:55,186 --> 00:02:56,652
 - Tell me what?
 - I'm not joking--
 告诉我什么？
+我不是开玩笑--
 
 74
 00:02:56,754 --> 00:02:59,321
@@ -408,6 +443,7 @@ Um, it was, uh, Jian-Yang.
 He said to tell you that
 Phillip McCrevis left word.
 他说要告诉你
+菲利浦mccrevis留下话。
 
 76
 00:03:02,226 --> 00:03:05,160
@@ -424,12 +460,14 @@ Oh, who's "Fill-up My--" Oh.
 Richard, we'd better get our
 asses in first fucking gear
 李察，我们最好把我们的
+第一个他妈的装备
 
 79
 00:03:20,778 --> 00:03:23,846
 if we want to make it to
 this "Verge" photoshoot.
 如果我们想让它
+这种“边缘”的拍摄。
 
 80
 00:03:23,948 --> 00:03:25,648
@@ -446,18 +484,21 @@ Yes, I assumed that's why you're still
 - wearing your Bloomberg makeup.
 - No.
 •戴上你的彭博化妆。
+-不。
 
 83
 00:03:29,453 --> 00:03:31,887
 No, I was just--
 I kind of like the way it--
 不，我只是--
+我有点喜欢它的方式
 
 84
 00:03:31,989 --> 00:03:34,990
 can we just push this
 to next week, please?
 我们可以推这个
+下周，请？
 
 85
 00:03:35,092 --> 00:03:37,393
@@ -484,12 +525,14 @@ and honestly I would be really happy
 if I never had to do
 any of this ever again
 如果我不曾做
+任何一次又一次
 
 90
 00:03:44,869 --> 00:03:46,535
 and then you were just
 the face of the company.
 然后你只是
+公司的面子。
 
 91
 00:03:46,637 --> 00:03:48,804
@@ -501,59 +544,68 @@ You know what I mean? Oh, shit.
 What-- what time is this
 "Vanity Fair" thing?
 什么-什么时候是这个
+“名利场”的事情？
 
 93
 00:03:50,875 --> 00:03:53,108
 It's tonight. I figure
 we're wheels up by 6:00,
 这是今晚。我的身影
+我们的车轮由6，
 
 94
 00:03:53,210 --> 00:03:56,378
 then we can check into the hotel,
 shit, shave and shit again.
 然后我们可以到酒店入住，
+该死，刮胡子又一次。
 
 95
 00:03:56,480 --> 00:03:58,213
 - Get a cocktail.
 - What hotel?
 得到一杯鸡尾酒。
+•什么酒店？
 
 96
 00:03:58,315 --> 00:04:00,015
 Eavesdropping. Well, if you must know,
-窃听。好吧，如果你必须知道，
+eavesdropping。好吧，如果你必须知道，
 
 97
 00:04:00,117 --> 00:04:03,152
 we got a suite at the Fairmont,
 and they're sending a car.
 我们在费尔蒙有一套房，
+他们在送一辆车。
 
 98
 00:04:03,254 --> 00:04:05,954
 I think Richard deserves it. And
 then I figured tomorrow in the a.m.,
 我认为李察应该得到它。和
+然后我想明天早上，
 
 99
 00:04:06,057 --> 00:04:08,223
 we would sleep in and
 have a nice brunch.
 我们会睡在
+有一个很好的午餐。
 
 100
 00:04:08,325 --> 00:04:10,659
 I don't have time for a brunch.
 I have to be back here.
 我没有一个午餐时间。
+我必须回到这里。
 
 101
 00:04:10,761 --> 00:04:14,963
 Come on, eggs benny, a little spinach
 tartar, you'll flirt with the waitress.
 来吧，鸡蛋本尼，一点菠菜
+牙垢，你会与女服务员调情。
 
 102
 00:04:15,066 --> 00:04:18,467
@@ -565,6 +617,7 @@ Killer. And, uh, we'll have a nice talk.
 - Talk? What about?
 - You know, things, all sorts of themes.
 交谈？是什么样的？
+•你知道，事情，各种各样的主题。
 
 104
 00:04:24,008 --> 00:04:27,609
@@ -581,6 +634,7 @@ and, uh, one word... frittata.
 Hey, fellas, is it me or is
 it a bit chilly in here?
 嘿，伙计们，这是我还是
+这里有点冷吗？
 
 107
 00:04:39,623 --> 00:04:42,357
@@ -597,42 +651,49 @@ What do you think it is? It's a jacket!
 Now, I only
 ordered one as a sample,
 现在，我只
+订购一个样品，
 
 110
 00:04:48,199 --> 00:04:50,933
 but once I have your sizes,
 we can all have them.
 但一旦我有你的尺寸，
+我们都可以拥有他们。
 
 111
 00:04:51,035 --> 00:04:53,736
 Why would we all want them?
 One is already too many.
 为什么我们都要他们？
+一个已经太多。
 
 112
 00:04:53,838 --> 00:04:56,138
 I don't mean in the house. I
 mean, like, in the world.
 我不是指在房子里。我
+意思是，在世界上。
 
 113
 00:04:56,240 --> 00:05:00,309
 Now Gilfoyle, I have you at
 about a 40 long? Am I right?
 现在你已在吉尔福伊尔，我
+大约40个长？我对吗？
 
 114
 00:05:00,411 --> 00:05:02,678
 If my mother was naked
 and dead in the street,
 如果我的母亲是裸体的
+死在街上，
 
 115
 00:05:02,780 --> 00:05:05,614
 I would not cover her
 body with that jacket.
 我不会掩盖她
+那件夹克。
 
 116
 00:05:05,716 --> 00:05:08,617
@@ -649,6 +710,7 @@ Jared, now that you're here,
 we need two new tables
 in the game room. Yeah?
 我们需要新的桌子
+在游戏室里。是吗？
 
 119
 00:05:12,623 --> 00:05:16,225
@@ -665,6 +727,7 @@ Oh, hold on, there's more.
 Because 'awesome
 world-changing compression company'
 因为“真棒
+世界变压缩公司
 
 122
 00:05:22,032 --> 00:05:23,832
@@ -676,12 +739,14 @@ would take up too much space."
 And you guys give me shit
 for a tiny gold chain?
 你们给我大便
+一个小小的黄金链？
 
 124
 00:05:26,137 --> 00:05:30,072
 I regret nothing. I'm
 going to get coffee.
 我后悔没有。我
+去喝咖啡。
 
 125
 00:05:34,111 --> 00:05:35,177
@@ -693,12 +758,14 @@ Hey, Brownie, you coming?
 I was thinking we'd hit
 the Philz on Middlefield.
 我想我们会打
+在米德尔菲尔德的Philz。
 
 127
 00:05:37,281 --> 00:05:40,115
 No, let's drive to the
 one on Forest Avenue.
 不，让我们开车去
+森林大道上的一个。
 
 128
 00:05:40,217 --> 00:05:42,217
@@ -710,6 +777,7 @@ It's further from that jacket.
 Claude, you're on pager
 duty until we get back.
 克劳德，你的传呼机
+等到我们回来。
 
 130
 00:05:46,957 --> 00:05:49,558
@@ -721,6 +789,7 @@ Jared, can I borrow that jacket?
 I sense you're doing
 something ironic with it,
 我感觉你正在做
+具有讽刺意味的东西，
 
 132
 00:05:52,730 --> 00:05:55,297
@@ -732,24 +801,28 @@ but I'm okay with that because...
 however unattractive this
 jacket may seem to you,
 然而吸引力这
+夹克可能似乎你，
 
 134
 00:05:58,602 --> 00:06:01,703
 once you slip it on,
 everything will change.
 一旦你滑倒了，
+一切都将改变。
 
 135
 00:06:01,806 --> 00:06:05,340
 It'll shake out its hair
 and take off its glasses,
 它会抖掉它的头发
+摘下眼镜，
 
 136
 00:06:05,442 --> 00:06:07,442
 and before you know it,
 you'll be in love.
 在你知道之前，
+你会爱上你。
 
 137
 00:06:07,545 --> 00:06:11,113
@@ -771,12 +844,14 @@ As the fable teaches us,
 it may appear that he
 is losing in his race
 可能会出现他
+正在输掉比赛
 
 141
 00:06:19,089 --> 00:06:22,624
 against his nemesis, the
 insolent and cocksure hare.
 对他的对手的
+傲慢和自负的兔子。
 
 142
 00:06:24,495 --> 00:06:26,428
@@ -803,6 +878,7 @@ The hare is Pied Piper.
 Indeed it is. Someone's
 read their Aesop.
 事实上它是。某人的
+读伊索。
 
 147
 00:06:34,939 --> 00:06:36,471
@@ -814,6 +890,7 @@ We've also read the financials, Gavin.
 Between Nucleus and Endframe,
 you've burned through
 核和端之间，
+你已经被烧毁
 
 149
 00:06:38,742 --> 00:06:40,576
@@ -830,24 +907,28 @@ with virtually nothing to show for it.
 Two weeks ago, on the
 heels of powering down
 前2个星期，在
+断电后
 
 152
 00:06:45,649 --> 00:06:47,950
 the entire Hooli campus
 for seemingly no reason,
 整个hooli校园
+似乎没有理由，
 
 153
 00:06:48,052 --> 00:06:51,587
 you lost all of Endframe's
 senior engineers.
 你失去了所有的端
+高级工程师。
 
 154
 00:06:51,689 --> 00:06:54,790
 I grant you, we've stumbled
 on offense of late,
 我给你，我们已经绊倒
+论晚犯，
 
 155
 00:06:54,892 --> 00:06:56,692
@@ -859,18 +940,21 @@ but the best offense is a good defense.
 We've taken a page out
 of Apple's playbook
 我们已经采取了一页
+苹果的剧本
 
 157
 00:06:59,230 --> 00:07:02,531
 and are currently "reviewing"
 the Pied Piper app for sale
 目前正在“审查”
+出售吹笛的应用程序
 
 158
 00:07:02,633 --> 00:07:06,335
 in our Hooli store at a pace one
 might call "tortoise-like."
 在我们的hooli店的步伐，一
+可能叫“乌龟喜欢”。
 
 159
 00:07:06,437 --> 00:07:08,036
@@ -887,6 +971,7 @@ In any case, I have it on good authority
 that it may be some
 time before Pied Piper
 它可能是一些
+在吹笛手的时间
 
 162
 00:07:13,110 --> 00:07:15,611
@@ -898,18 +983,21 @@ is available on Hooli OS devices.
 - We're making it available immediately.
 - Sorry?
 •我们马上就可以了。
+对不起？
 
 164
 00:07:18,515 --> 00:07:21,450
 You're fighting a war that's already
 ended, Gavin. Pied Piper won.
 你已经在打一场战争
+结束了，加文。吹笛人赢。
 
 165
 00:07:21,552 --> 00:07:25,354
 We called this board meeting to inform
 you that it's time for Hooli to let go
 我们打电话给董事会会议通知
+你是hooli放手的时间
 
 166
 00:07:25,456 --> 00:07:27,089
@@ -921,24 +1009,28 @@ and move on without you at the wheel.
 I'm sorry, without me?
 Are you firing me?
 对不起，没有我？
+你要解雇我吗？
 
 168
 00:07:31,095 --> 00:07:32,661
 Our intention is simply
 to transition you
 我们的意图很简单
+要转变你
 
 169
 00:07:32,763 --> 00:07:34,963
 into a more appropriate
 role within the company,
 进入一个更为合适的
+公司内部的角色，
 
 170
 00:07:35,065 --> 00:07:37,966
 one with less oversight
 of day-to-day operations.
 少了一个监督
+日常运作。
 
 171
 00:07:40,271 --> 00:07:42,404
@@ -950,12 +1042,14 @@ You're putting me on the fucking roof?
 You could always choose to
 move on, Gavin. Up to you.
 你可以一直选择
+继续前进，加文。你最多。
 
 173
 00:07:45,743 --> 00:07:50,712
 I built this company with my
 bare hands in my fucking garage.
 我用我的
+我他妈的车库里光秃秃的。
 
 174
 00:07:50,814 --> 00:07:52,714
@@ -982,24 +1076,28 @@ Fuck.
 Well, uh, you are certainly more than
 qualified to be our new head of PR.
 嗯，你肯定比
+有资格成为我们的新头的问题
 
 179
 00:08:16,740 --> 00:08:20,943
 Laurie thinks you're great. Um, to
 be honest, we could use the help.
 劳丽认为你是伟大的。嗯，到
+说实话，我们可以用这个帮助。
 
 180
 00:08:21,045 --> 00:08:24,780
 All the media stuff has been pretty
 overwhelming, especially lately.
 所有媒体的东西都很漂亮
+压倒性的，尤其是最近。
 
 181
 00:08:24,882 --> 00:08:27,783
 - If Marissa Mayer can do it, so can you.
 - Oh.
 如果玛丽莎Mayer能做到，那么你可以。
+-哦。
 
 182
 00:08:27,885 --> 00:08:30,619
@@ -1011,6 +1109,7 @@ And, uh, you're available immediately?
 I am. I do have one
 question for you guys.
 我是.我有一个
+你们的问题。
 
 184
 00:08:33,457 --> 00:08:37,225
@@ -1032,12 +1131,14 @@ Yeah, I mean, I'm-- I'm cool.
 - Yeah, he is cool.
 - Uh-huh.
 是的，他很酷。
+•恩。
 
 188
 00:08:44,468 --> 00:08:46,902
 Clearly, but is there
 anything you guys want
 显然，但在那里
+你们想要的任何东西
 
 189
 00:08:47,004 --> 00:08:49,037
@@ -1059,6 +1160,7 @@ All right, look, this is weird,
 but when I was in Laurie's
 office yesterday,
 但当我在劳丽的
+办公室昨天，
 
 193
 00:08:55,479 --> 00:08:58,080
@@ -1070,12 +1172,14 @@ I saw a piece of paper on her desk.
 Well, she--
 she can be a bit untidy.
 好吧，她--
+她有点乱。
 
 195
 00:09:00,451 --> 00:09:03,518
 It was a sale of a big
 block of Pied Piper stock.
 这是一个大的销售
+吹笛的股票。
 
 196
 00:09:03,620 --> 00:09:04,820
@@ -1087,6 +1191,7 @@ Is someone on the inside
 dumping shares right
 as you're launching?
 倾销股票的权利
+你是什么？
 
 198
 00:09:06,747 --> 00:09:07,346
@@ -1103,30 +1208,35 @@ No. No, absolutely not.
 'Cause that would be a pretty
 severe signaling risk.
 这将是一个美丽的原因
+严重的信号风险。
 
 201
 00:09:12,329 --> 00:09:14,763
 I mean, you don't have to be
 in PR to know that insiders
 我是说，你不必
+在公关部了解到，业内人士
 
 202
 00:09:14,865 --> 00:09:17,733
 only dump stock like that when
 they know something is wrong.
 只有转储股票，当
+他们知道某件事是错误的。
 
 203
 00:09:17,835 --> 00:09:19,634
 The bulk of my compensation
 here would be options,
 我的大部分补偿
+这里将是选项，
 
 204
 00:09:19,737 --> 00:09:22,237
 and if those aren't going
 to be worth anything--
 如果那些不去
+值得任何东西--
 
 205
 00:09:22,339 --> 00:09:24,473
@@ -1138,18 +1248,21 @@ Yeah. No. No, no, no.
 That is not happening, okay?
 Nothing is going on here.
 那不是发生，好吗？
+这里没有什么。
 
 207
 00:09:28,145 --> 00:09:31,480
 - Yeah, except excellence.
 - Okay.
 -是的，除了卓越。
+-好的。
 
 208
 00:09:31,582 --> 00:09:35,050
 Well, you let me know
 what you want to do
 好吧，你让我知道
+你想做什么
 
 209
 00:09:35,152 --> 00:09:37,252
@@ -1196,30 +1309,35 @@ Well, let's not jump to conclusions.
 I mean, she's the only one
 who's bought a jacket.
 我是说，她是唯一一个
+谁买了一件夹克。
 
 218
 00:10:01,512 --> 00:10:04,479
 Jared, she's the only one
 who hates the platform.
 贾里德，她是唯一一个
+谁恨这个平台。
 
 219
 00:10:04,581 --> 00:10:08,250
 There's no other explanation for this.
 Okay? Monica fucked us.
 对此没有其他解释。
+好吗？莫妮卡欺骗我们。
 
 220
 00:10:08,352 --> 00:10:12,320
 She pulled down her pants and
 fucked us in front of her parents.
 她把裤子拉下来
+现在我们在她父母面前。
 
 221
 00:10:12,423 --> 00:10:15,991
 Did some-- Richard, did
 somebody do that to you?
 做了一些-李察，没有
+有人这样对你吗？
 
 222
 00:10:16,093 --> 00:10:17,426
@@ -1236,6 +1354,7 @@ Oh, boy, it is chilly.
 Good thing I brought
 this sweet jiz-acket.
 我带来的好东西
+这甜蜜的jiz包。
 
 225
 00:10:27,604 --> 00:10:31,006
@@ -1257,6 +1376,7 @@ You think you're embarrassing me,
 but that's only the secondary
 effect of that shitty jacket.
 但这只是次要的
+那个烂夹克效果。
 
 229
 00:10:40,350 --> 00:10:42,250
@@ -1268,24 +1388,28 @@ The primary effect is...
 that you
 look like a douchebag.
 你
+看起来像个恶棍。
 
 231
 00:10:46,523 --> 00:10:48,323
 Let me put this in terms
 you'll understand.
 让我把这个放在
+你会明白。
 
 232
 00:10:48,425 --> 00:10:51,460
 I'm like a suicide
 bomber of humiliation.
 我像一个自杀
+屈辱的轰炸机。
 
 233
 00:10:51,562 --> 00:10:54,663
 I'm happy to go out as long
 as I take you with me.
 我很高兴能出去
+当我带你和我在一起。
 
 234
 00:10:54,765 --> 00:10:58,400
@@ -1307,6 +1431,7 @@ What you noshing on? Cranberry scone?
 My friend Dinesh here has a
 little crush on you. He's shy.
 我的朋友就在这里了
+小暗恋你。他很害羞。
 
 238
 00:11:10,180 --> 00:11:12,214
@@ -1338,6 +1463,7 @@ Do you work for Pied Piper?
 - Yeah.
 - Dude, your app is killin' it.
 -是的。
+哥们，你是杀了它。
 
 244
 00:11:23,293 --> 00:11:24,860
@@ -1349,6 +1475,7 @@ Everyone I know is installing it.
 Do you seriously? I just
 downloaded it last night.
 你真的很认真吗？我只是
+下载了它的最后一晚。
 
 246
 00:11:27,364 --> 00:11:29,798
@@ -1360,6 +1487,7 @@ Yeah? Do you mind if we get a picture?
 - With me?
 - Yeah. Everybody get in.
 和我在一起？
+-是的。每个人都在。
 
 248
 00:11:32,536 --> 00:11:33,969
@@ -1371,12 +1499,14 @@ If you want it.
 - Thanks.
 - Thanks, bro.
 -谢谢。
+-谢谢，兄弟。
 
 250
 00:11:37,241 --> 00:11:39,941
 Hey, man, did you remember
 to put money in the meter?
 嘿，伙计，你还记得吗
+把钱放在表上？
 
 251
 00:11:40,043 --> 00:11:42,444
@@ -1398,6 +1528,7 @@ Gilfoyle.
 He's a fuckin' dick, but
 I love him, though.
 他是个该死的家伙，但是
+我爱他，虽然。
 
 255
 00:11:49,486 --> 00:11:51,319
@@ -1409,12 +1540,14 @@ You have me confused with someone else.
 My name's clearly Jared, and if you
 would excuse us, you were interrupting.
 我的名字是贾里德，如果你
+请原谅我们，你被打断了。
 
 257
 00:11:55,459 --> 00:11:58,693
 No, he's lying. His name is Gilfoyle.
 Show them your driver's license.
 不，他在撒谎。他的名字是吉尔福伊尔。
+告诉他们你的驾驶执照。
 
 258
 00:11:58,795 --> 00:12:00,629
@@ -1426,6 +1559,7 @@ Jared asked you nicely to step back,
 so step the fuck back. You're being
 a dick, and you're cutting in line.
 所以他妈的背。你被
+迪克，你插队。
 
 260
 00:12:04,635 --> 00:12:07,035
@@ -1437,12 +1571,14 @@ You heard him. You're being a dick.
 - Boy, some people.
 - What a creep.
 •男孩，有些人。
+•蠕变。
 
 262
 00:12:11,975 --> 00:12:14,142
 Sorry you had to
 deal with that, Jared.
 对不起你不得不
+处理，贾里德。
 
 263
 00:12:14,244 --> 00:12:16,211
@@ -1459,6 +1595,7 @@ This is Monica.
 Is it? Because apparently
 everything else
 是吗？因为很显然，
+其他的一切
 
 266
 00:12:20,484 --> 00:12:22,217
@@ -1475,18 +1612,21 @@ Shit.
 Look, Richard, I totally
 understand if you're pissed at me,
 听着，李察，我完全
+如果你对我生气，
 
 269
 00:12:27,257 --> 00:12:30,659
 but please know that I tried as hard
 as I could to get him to tell you.
 但请知道，我尽了努力
+我可以让他告诉你。
 
 270
 00:12:30,761 --> 00:12:32,694
 Oh, really? Well, that's
 not what he said.
 哦，真的吗？嗯，那是
+不是他说的。
 
 271
 00:12:32,796 --> 00:12:34,629
@@ -1498,12 +1638,14 @@ Oh, really? What exactly did he say?
 He said that he found it on a piece
 of paper in Laurie's office.
 他说他在一块
+劳丽办公室的论文。
 
 273
 00:12:37,701 --> 00:12:41,903
 What? Wait, wait, wait. Hold on. Who's
 the "he" that you're talking about?
 什么？等待，等待，等待。坚持。是谁
+你说的“他”？
 
 274
 00:12:42,005 --> 00:12:43,371
@@ -1515,6 +1657,7 @@ You know who. David.
 - My brother?
 - What?
 我弟弟？
+-什么？
 
 276
 00:12:45,976 --> 00:12:47,976
@@ -1531,30 +1674,35 @@ No, David, the fucking PR guy
 who's not going to take a job
 with us because of what you did.
 谁不打算找工作
+因为你所做的。
 
 279
 00:12:52,115 --> 00:12:55,750
 Richard, I am totally lost. What
 exactly do you think I did?
 李察，我完全迷路了。什么
+你觉得我做的好吗？
 
 280
 00:12:55,852 --> 00:12:58,787
 You can play dumb all you want to.
 It won't change the one thing
 你可以扮演哑你想。
+它不会改变一件事
 
 281
 00:12:58,889 --> 00:13:01,723
 that both you and I know is true.
 You dumped your stock.
 你和我都知道这是真的。
+你甩了你的股票。
 
 282
 00:13:01,825 --> 00:13:06,428
 What? No. I didn't dump a single
 share of my Pied Piper stock.
 什么？不。我没有转储一个单一的
+我的吹笛手股票。
 
 283
 00:13:06,530 --> 00:13:08,797
@@ -1571,6 +1719,7 @@ And make sure that the money reads.
 I mean, Pied Piper is a
 billion-dollar company.
 我的意思是，吹笛人是一个
+亿美元的公司。
 
 286
 00:13:13,003 --> 00:13:14,202
@@ -1597,6 +1746,7 @@ sort of look like my dick. Perfect.
 - Are you fucking kidding me?
 - Richard.
 -你他妈的跟我开玩笑吧？
+-李察。
 
 291
 00:13:26,483 --> 00:13:28,783
@@ -1608,24 +1758,28 @@ Um, can we take a soft five?
 I was going to tell you. That's
 what tomorrow's brunch was for.
 我要告诉你。这是
+明天的午餐是什么。
 
 293
 00:13:31,388 --> 00:13:35,190
 Brunch? You had ten fucking days
 and you didn't say a thing.
 早午餐？你有十个他妈的天
+你没说一件事。
 
 294
 00:13:35,292 --> 00:13:37,292
 Fine. You want to know
 why I didn't tell you?
 好的.你想知道
+我为什么不告诉你呢？
 
 295
 00:13:37,394 --> 00:13:39,995
 Because it's fucking humiliating.
 I'm broke, Richard.
 因为这是他妈的耻辱。
+我打破了，李察。
 
 296
 00:13:40,097 --> 00:13:42,831
@@ -1637,6 +1791,7 @@ Did you hear me? I'm broke.
 Erlich Bachman, the name that used
 to be synonymous with success,
 法国巴赫曼，使用的名称
+成功的同义词，
 
 298
 00:13:46,069 --> 00:13:48,169
@@ -1648,18 +1803,21 @@ went broke and was forced to sell.
 - I got royally fucked, Richard.
 - You got fucked?
 -我有非常糟糕，李察。
+你被骗了吗？
 
 300
 00:13:50,707 --> 00:13:53,642
 You're the one who threw
 a million-dollar party.
 你是那个扔的人
+一百万美元派对。
 
 301
 00:13:53,744 --> 00:13:55,877
 - Yeah, but it was a great party.
 - No one forced you to do that.
 -是的，但它是一个伟大的党。
+•没有人强迫你去做。
 
 302
 00:13:55,979 --> 00:13:57,946
@@ -1671,12 +1829,14 @@ Admit it, you fucked yourself.
 But I'm not gonna let
 you fuck my company.
 但我不会让
+你他妈的我的公司。
 
 304
 00:13:59,850 --> 00:14:01,216
 I'm going to have to
 issue a press release
 我要去
+发行新闻稿
 
 305
 00:14:01,318 --> 00:14:02,784
@@ -1693,12 +1853,14 @@ No, no, come on. This isn't out.
 - It's one PR guy.
 - That we know of, Erlich.
 •这是一个公关人员。
+据我们所知，法国。
 
 308
 00:14:07,357 --> 00:14:09,157
 How many other people saw
 that piece of paper?
 有多少人看到
+那张纸？
 
 309
 00:14:09,259 --> 00:14:11,926
@@ -1720,48 +1882,56 @@ Rumors spread like light speed here.
 How are we gonna get good
 people to work for us
 我们怎么会得到好
+人们为我们工作
 
 313
 00:14:19,536 --> 00:14:21,936
 if they think something funky
 is going on with our stock?
 如果他们觉得时髦
+我们的股票在继续吗？
 
 314
 00:14:22,039 --> 00:14:25,106
 How are we going to scale?
 This is going to kill us.
 我们将如何规模？
+这将杀死我们。
 
 315
 00:14:25,208 --> 00:14:27,776
 Richard, do you know what
 happens if this goes public?
 李察，你知道吗
+如果这是公开发生的事情吗？
 
 316
 00:14:27,878 --> 00:14:29,778
 - I'm Ron Wayne.
 - Who?
 •我是韦恩。
+-谁？
 
 317
 00:14:29,880 --> 00:14:34,349
 Ron Wayne. The guy that owned ten
 percent of Apple and sold it in 1976.
 罗恩韦恩。那个人拥有十
+苹果的百分之，并在1976。
 
 318
 00:14:34,451 --> 00:14:36,518
 No one in this town will
 work with me ever again.
 这镇上没有人会
+再和我一起工作。
 
 319
 00:14:36,620 --> 00:14:40,188
 You want me to risk the
 entire future of Pied Piper,
 你要我冒风险
+的吹笛手的整个未来，
 
 320
 00:14:40,290 --> 00:14:42,324
@@ -1773,18 +1943,21 @@ everything that I've worked for,
 just to protect you from your
 own fucking incompetence?
 只是为了保护你不受你的
+自己他妈的无能？
 
 322
 00:14:47,397 --> 00:14:49,597
 Richard, there's a three
 to four percent chance
 李察，有一三
+百分之四的机会
 
 323
 00:14:49,700 --> 00:14:51,533
 that this is going to
 get out on its own,
 这是要
+走出自己的，
 
 324
 00:14:51,635 --> 00:14:53,568
@@ -1801,6 +1974,7 @@ that if you issue a press release
 no one will ever take
 me seriously again.
 永远没有人能接受
+我又认真。
 
 327
 00:14:58,041 --> 00:15:01,042
@@ -1822,30 +1996,35 @@ Gavin? Is that you?
 - Jack Barker.
 - Nice plane.
 杰克-巴克。
+-好的飞机。
 
 331
 00:15:15,892 --> 00:15:17,392
 - Yours too.
 - Where are you headed?
 •你的。
+•你要去哪儿？
 
 332
 00:15:17,494 --> 00:15:19,861
 I just needed to take a
 walk and clear my head.
 我只需要带一个
+我的头走，清醒。
 
 333
 00:15:19,963 --> 00:15:22,897
 There's this great little hiking
 trail near my lodge in Jackson Hole.
 这个伟大的小远足
+在我的小屋附近的线索。
 
 334
 00:15:22,999 --> 00:15:26,768
 Get out of here. I'm on my
 way up to J Hole myself.
 离开这里。我在我的
+到了自己的方法。
 
 335
 00:15:26,870 --> 00:15:28,737
@@ -1872,12 +2051,14 @@ Coming back tomorrow afternoon.
 - Me, too.
 - Oh, come on. Come on.
 我也。
+哦，来吧。来吧。
 
 340
 00:15:36,246 --> 00:15:41,216
 Seriously, we need to find a couple
 hours, get together, catch up.
 说真的，我们需要找到一对夫妇
+小时，聚在一起，赶上。
 
 341
 00:15:41,318 --> 00:15:42,751
@@ -1904,12 +2085,14 @@ Well, be well.
 - You, too.
 - Take care, Jack.
 -你，太。
+注意，杰克。
 
 346
 00:15:49,693 --> 00:15:51,359
 - Yeah.
 - See you.
 -是的。
+见你。
 
 347
 00:15:52,329 --> 00:15:54,829
@@ -1926,48 +2109,56 @@ Uh, what are we doing here?
 I mean, you're on your way to Jackson
 Hole, I'm going to Jackson Hole.
 我是说，你在去禅师的路上
+洞，我去了禅师洞。
 
 350
 00:16:01,671 --> 00:16:04,672
 You seem like you could
 use some company.
 你似乎能
+使用一些公司。
 
 351
 00:16:05,809 --> 00:16:07,642
 - You play chess?
 - I do. Indeed.
 你下象棋？
+•我做。的确.
 
 352
 00:16:07,744 --> 00:16:10,845
 Fantastic. I tell you,
 when we get up to altitude
 好极了.我告诉你，
+当我们到了高度
 
 353
 00:16:10,947 --> 00:16:16,050
 and the Wi-Fi kicks in, I'm
 ActionJB62 on Hooli chat.
 和Wi-Fi踢，我是
+actionjb62在hooli聊天。
 
 354
 00:16:16,153 --> 00:16:17,485
 - Find me.
 - I will.
 找到我。
+•我会。
 
 355
 00:16:17,587 --> 00:16:19,721
 - I'm glad we bumped into each other.
 - Me, too.
 •我很高兴我们撞到了彼此。
+我也。
 
 356
 00:16:19,823 --> 00:16:22,190
 - Really is a small world.
 - It's crazy.
 真是一个小世界。
+•这是疯狂。
 
 357
 00:16:26,563 --> 00:16:29,330
@@ -1979,12 +2170,14 @@ Okay, well, uh, I think it reads well.
 And it's all in there. This will
 definitely set the record straight.
 这都是在那里。这将
+绝对定的记录。
 
 359
 00:16:33,103 --> 00:16:35,770
 Then again, you're basically
 lighting Erlich on fire.
 然后，你基本上是
+在消防照明分。
 
 360
 00:16:35,872 --> 00:16:38,139
@@ -2001,6 +2194,7 @@ He potentially fucked the company.
 Are you kidding me? Wh--
 Gilfoyle, back me up here.
 你在跟我开玩笑吧？那--
+吉尔福伊尔，回到我这里。
 
 363
 00:16:43,613 --> 00:16:44,746
@@ -2012,78 +2206,91 @@ This is thorny.
 How is this even a
 question for you guys?
 这是怎样的一个
+你们的问题？
 
 365
 00:16:46,450 --> 00:16:48,116
 Honestly? I mean, it's
 not like he's going
 真的吗？我的意思是，它是
+不喜欢他走
 
 366
 00:16:48,218 --> 00:16:50,218
 to be out on the street.
 He just sold ten percent
 在街上。
+他只卖了百分之十
 
 367
 00:16:50,320 --> 00:16:52,987
 of a company that's valued at
 at least 50 million dollars
 一个被估价的公司
+至少5000万美元
 
 368
 00:16:53,089 --> 00:16:55,523
 and now suddenly we're giving
 him the benefit of the doubt?
 现在突然我们给
+他对怀疑的好处？
 
 369
 00:16:55,625 --> 00:16:58,827
 Well, it sounds mighty
 Christian of you, Gilfoyle.
 听起来很强大
+基督教的你，吉尔福伊尔。
 
 370
 00:16:58,929 --> 00:17:01,229
 There's no reason for
 hate speech, Richard.
 没有理由的
+讨厌演讲，李察。
 
 371
 00:17:07,571 --> 00:17:10,839
 I can see by the sour,
 pinched expressions
 我可以看到的酸，
+捏的表达
 
 372
 00:17:10,941 --> 00:17:13,708
 on all your faces that
 Richard has filled you in
 在你所有的脸上
+李察已经让你充满了
 
 373
 00:17:13,810 --> 00:17:16,511
 regarding the unfortunate
 circumstances that have forced me
 对于不幸的
+强迫我的情况
 
 374
 00:17:16,613 --> 00:17:19,948
 to relinquish my stake
 in your fair company.
 放弃我的股份
+在你的公司。
 
 375
 00:17:20,050 --> 00:17:24,819
 Erlich, uh, you should know that
 I have written a press release.
 埃利希，呃，你应该知道
+我已经写了一个新闻稿。
 
 376
 00:17:24,921 --> 00:17:27,021
 - Oh?
 - I'm not going to release it yet,
 -哦？
+-我不打算释放它，
 
 377
 00:17:27,123 --> 00:17:29,457
@@ -2095,18 +2302,21 @@ but if I hear wind of these rumors
 spreading out of control, I'm going
 to send it to every tech publication
 传播失控，我要去
+把它发送给每一个技术出版物
 
 379
 00:17:32,496 --> 00:17:35,330
 and blog on the face of the earth.
 Do you understand?
 和博客的脸上的地球。
+你明白吗？
 
 380
 00:17:35,432 --> 00:17:37,799
 - Even UPROXX?
 - Yes, even them.
 即使Uproxx？
+是的，甚至他们。
 
 381
 00:17:38,902 --> 00:17:39,968
@@ -2118,24 +2328,28 @@ Also, uh...
 this is the check for next month's
 use of the house as our office,
 这是下个月的检查
+我们办公室的使用，
 
 383
 00:17:46,510 --> 00:17:48,810
 but we'll be out by
 the end of the month.
 但我们会被
+一个月底。
 
 384
 00:17:48,912 --> 00:17:50,445
 Richard, it doesn't
 have to be like this.
 李察，它不
+必须像这样。
 
 385
 00:17:50,547 --> 00:17:52,146
 From this point forward,
 you will have nothing
 从这一点向前，
+你将没有什么
 
 386
 00:17:52,249 --> 00:17:54,148
@@ -2157,12 +2371,14 @@ and I'm giving your seat to Jared.
 - So that's it then.
 - Yes.
 -所以这是它。
+-是的。
 
 390
 00:18:01,858 --> 00:18:04,225
 So I guess we better get ready
 for that "Vanity Fair" event.
 所以我想我们最好做好准备
+为“名利场”事件。
 
 391
 00:18:04,327 --> 00:18:05,660
@@ -2174,6 +2390,7 @@ What?
 Did you not listen to
 a word I just said?
 你没有听
+我刚才说的一句话？
 
 393
 00:18:09,299 --> 00:18:11,165
@@ -2185,24 +2402,28 @@ I heard thousands of words about rumors
 and the need to contain them.
 What do you think would happen
 和需要包含它们。
+你认为会发生什么
 
 395
 00:18:13,503 --> 00:18:15,236
 if I didn't show up to
 this "Vanity Fair" event?
 如果我没有出现
+这个“名利场”事件吗？
 
 396
 00:18:15,338 --> 00:18:17,472
 I've already RSVP'd
 and given them a list
 我已经回复过
+给他们一个清单
 
 397
 00:18:17,574 --> 00:18:20,742
 of phony dietary restrictions
 just to cause a scene.
 虚假的饮食限制
+只是为了引起一个场景。
 
 398
 00:18:20,844 --> 00:18:22,744
@@ -2214,6 +2435,7 @@ I told them I was pesca-pescatarian.
 Which is one who eats solely
 fish who eat other fish.
 这是一个谁吃完全
+吃其他鱼的鱼。
 
 400
 00:18:27,083 --> 00:18:29,183
@@ -2225,17 +2447,19 @@ I think my absence would be noted.
 - Erlich brings up a good point.
 - It's true.
 •埃利希带来了一个好点的。
+•这是真的。
 
 402
 00:18:31,354 --> 00:18:33,087
 Let us not forget
 Meinertzhagen's Havers--
 让我们不要忘记
+梅纳茨哈根的哈弗斯——
 
 403
 00:18:33,189 --> 00:18:34,989
 Yes, yes, Meinertzhagen's Haversack.
-是的，是的，梅纳茨哈根的背包。
+是的，是的，meinertzhagen haversack吗。
 
 404
 00:18:35,091 --> 00:18:37,258
@@ -2257,12 +2481,14 @@ Sure. You can come. I can't stop you.
 Uh, I'll be taking the
 car and the hotel room
 嗯，我要带了
+汽车和酒店房间
 
 408
 00:18:45,802 --> 00:18:47,468
 and you're going to
 have to drive yourself.
 你要去
+必须自己开车。
 
 409
 00:18:47,571 --> 00:18:49,137
@@ -2279,6 +2505,7 @@ See you at the event.
 - Jared, are you okay?
 - It's just so many emotions.
 -贾里德，你还好吗？
+•它只是那么多的感情。
 
 412
 00:19:02,352 --> 00:19:05,453
@@ -2320,6 +2547,7 @@ You still want him on the board?
 Hi, there. Checking in.
 Richard Hendricks.
 嗨，有。检查。
+李察亨德里克斯。
 
 420
 00:19:26,009 --> 00:19:27,175
@@ -2346,6 +2574,7 @@ Huh? No. No, no, no fucking.
 Just, uh, here for the
 "Vanity Fair" dinner.
 只是，嗯，在这里
+“名利场”晚宴。
 
 425
 00:19:35,251 --> 00:19:36,451
@@ -2357,24 +2586,28 @@ Oh, yeah, I know that stupid dinner.
 Bunch of VC douchebags
 jerking each other off.
 VC资源束
+把对方。
 
 427
 00:19:38,555 --> 00:19:40,555
 Speaking of, I got this girl at
 the bar, I'm trying to take her
 说到，我得到了这个女孩
+酒吧，我想带她
 
 428
 00:19:40,657 --> 00:19:42,624
 up to the presidential suite
 before her fucking bridesmaids
 到总统套房
+在她妈的伴娘
 
 429
 00:19:42,726 --> 00:19:45,259
 ruin the whole thing, but
 they're telling me it's booked.
 毁掉整个事情，但
+他们告诉我已经被预订了。
 
 430
 00:19:45,362 --> 00:19:48,262
@@ -2386,6 +2619,7 @@ Who is it? Is it Gore? Fuck that guy.
 - Oh, God.
 - I saw Pied Piper launched.
 -哦，上帝。
+我看见吹笛手启动。
 
 432
 00:19:50,066 --> 00:19:51,399
@@ -2397,6 +2631,7 @@ Haven't tried it, probably won't.
 I don't even want to think
 about how fucked I got
 我甚至不想思考
+如何操我
 
 434
 00:19:53,269 --> 00:19:55,370
@@ -2408,78 +2643,91 @@ missing out on Erlich's shares. Fuck.
 Wait, he-- he tried to
 sell you his shares?
 等等，他试着去
+卖掉你的股份？
 
 436
 00:19:58,875 --> 00:20:01,376
 Well, half of them. He was pretty
 desperate to stay on the team.
 好，一半。他是漂亮的
+不顾一切的留在球队。
 
 437
 00:20:01,478 --> 00:20:03,511
 Well, he didn't mention
 anything about this to me.
 他没有提到
+对我来说这一切。
 
 438
 00:20:03,613 --> 00:20:06,047
 Of course not. Why would he? It's fucking
 humiliating losing all your money.
 当然不是。他为什么会？这是他妈的
+丢脸丢了所有的钱。
 
 439
 00:20:06,149 --> 00:20:08,716
 You think when I dropped below a billion
 I walked around telling everybody?
 你认为当我下降到十亿以下
+我四处走动告诉大家？
 
 440
 00:20:08,818 --> 00:20:10,251
 Fuck no. You guys were
 the only ones who knew,
 他妈的没有
+唯一知道的人，
 
 441
 00:20:10,353 --> 00:20:11,786
 and I actually thought
 about having you killed.
 我真的想
+关于你杀了。
 
 442
 00:20:11,888 --> 00:20:13,821
 - I'm sorry, what?
 - So Erlich and I, like two weeks ago,
 -我很抱歉，是什么？
+所以，我喜欢法国，两周前，
 
 443
 00:20:13,923 --> 00:20:17,125
 we had a contract ready... five mil I
 was gonna pay him for half his shares.
 我们有合同准备好了…五密我
+要付他一半的股份。
 
 444
 00:20:17,227 --> 00:20:19,761
 It was a win-win. Then
 that robot, Laurie Bream,
 这是一个双赢。然后
+机器人、劳丽鲂，
 
 445
 00:20:19,863 --> 00:20:21,496
 sweeps in and cockblocks
 the whole thing.
 和cockblocks扫描
+整件事。
 
 446
 00:20:21,598 --> 00:20:23,898
 She forces him to sell her all
 his shares. You think she's gay?
 她强迫他把她所有的
+他的股票。你认为她是同性恋？
 
 447
 00:20:24,000 --> 00:20:28,736
 Maybe. It hasn't come up. I,
 uh-- so wait, she outbid you?
 也许 吧.它还没有出现。我，
+呃，等等，她叫你吗？
 
 448
 00:20:28,838 --> 00:20:30,638
@@ -2491,18 +2739,21 @@ Outbid me? No, she didn't have to.
 You don't even know how your own
 fucking company works?
 你甚至不知道你自己的
+他妈的公司工作？
 
 450
 00:20:33,009 --> 00:20:35,343
 All right, Mr. Hendricks, we
 have you staying one night
 好的，先生。亨德里克斯，我们
+你有没有留下一晚
 
 451
 00:20:35,445 --> 00:20:37,345
 - in a deluxe double.
 - Okay, do you have a tub in that room?
 在一个豪华的双。
+-好的，你有一个房间里的浴缸吗？
 
 452
 00:20:37,447 --> 00:20:38,432
@@ -2519,30 +2770,35 @@ I don't know. There's no way of telling.
 You know what? Fuck it. I'm
 gonna take her to the "W."
 你知道吗？去他妈的。我
+要带她去“水世界”
 
 455
 00:20:41,685 --> 00:20:45,820
 She's so drunk she won't know the
 difference. See you around, Richie.
 她这么醉，她不知道
+差异。看到你在身边，里奇。
 
 456
 00:20:56,866 --> 00:20:59,467
 Hey, it's CJ.
 Listen, I'm hearing a rumor
 嘿，这是CJ。
+听着，我听说了一个谣言
 
 457
 00:20:59,569 --> 00:21:03,071
 about some serious ugliness
 going on at Pied Piper.
 关于一些严重的丑陋
+要在吹笛手。
 
 458
 00:21:03,173 --> 00:21:06,507
 I've heard it from three different
 people now. You need to call me.
 我从三个不同的
+现在的人们。你需要打电话给我。
 
 459
 00:21:08,111 --> 00:21:10,311
@@ -2554,12 +2810,14 @@ Fuck.
 What in God's name is the
 reason to get a higher education?
 上帝的名字是什么
+获得高等教育的理由？
 
 461
 00:21:13,383 --> 00:21:15,216
 You can just buy a
 megafreeze for 35 cents.
 你只能买一个
+megafreeze 35美分。
 
 462
 00:21:15,318 --> 00:21:16,884
@@ -2576,24 +2834,28 @@ Yes, uh, Richard Hendricks,
 - do you know Mark Pincus?
 - Hello.
 你知道Mark Pincus？
+-你好。
 
 465
 00:21:20,323 --> 00:21:22,623
 - Big fan.
 - Oh, okay. Yes.
 •大风扇。
+哦，好的。是的.
 
 466
 00:21:22,726 --> 00:21:24,559
 - Sorry, just one second.
 - Yes. Oh, all right.
 -对不起，只有一秒。
+-是的。哦，好吧。
 
 467
 00:21:24,661 --> 00:21:29,097
 I'm sorry to cut away like this.
 We can continue discussing this.
 我很抱歉这样就把这个。
+我们可以继续讨论这个问题。
 
 468
 00:21:31,501 --> 00:21:32,734
@@ -2605,12 +2867,14 @@ Okay, uh, look,
 I know Erlich sold you
 all of his shares.
 我知道法国卖给你
+他的所有股份。
 
 470
 00:21:35,705 --> 00:21:38,773
 I'm just, uh, wondering
 exactly how that happened.
 我只是，嗯，想知道
+究竟发生了怎样的。
 
 471
 00:21:38,875 --> 00:21:40,908
@@ -2622,24 +2886,28 @@ Ah, yes. It was one of my finer moments.
 Erlich came to me with an outside offer
 to sell half of his Pied Piper shares.
 埃利希来到我与外界提供
+出售他的魔笛一半股份。
 
 473
 00:21:45,081 --> 00:21:48,015
 To Russ Hanneman for five
 million dollars. Yes, I know.
 罗斯Hanneman五
+万美元。是的，我知道。
 
 474
 00:21:48,118 --> 00:21:51,252
 But somehow you ended up
 with all of his shares. How?
 但不知怎的你结束了
+与他的所有股份。如何？
 
 475
 00:21:51,354 --> 00:21:54,822
 Oh, well, as you know, the same
 onerous terms you accepted
 哦，好吧，正如你所知道的一样
+你接受的条款
 
 476
 00:21:54,924 --> 00:21:56,557
@@ -2651,24 +2919,28 @@ when you took Russ Hanneman's money,
 they transferred to me
 when I bought him out.
 他们转移到我
+当我给他买的时候。
 
 478
 00:21:58,461 --> 00:22:00,428
 These included the right to
 block any transfer of stocks
 这些包括权利
+阻止任何股票转让
 
 479
 00:22:00,530 --> 00:22:02,997
 with a majority vote of the board.
 A board which I control.
 与董事会的多数票。
+一个我控制的板。
 
 480
 00:22:03,099 --> 00:22:06,367
 - I don't understand.
 - Of course you do.
 •我不明白。
+当然你做。
 
 481
 00:22:06,469 --> 00:22:08,703
@@ -2690,6 +2962,7 @@ then I can set my own price.
 So I asked Mr. Bachman for a thorough
 accounting of his debts, uh,
 所以我请巴赫曼先生作一个彻底的
+他债务的会计，
 
 485
 00:22:16,880 --> 00:22:19,547
@@ -2704,7 +2977,7 @@ And how much did you give him?
 487
 00:22:21,518 --> 00:22:23,551
 $713,000.
-713000美元。
+$713,000.
 
 488
 00:22:24,454 --> 00:22:27,021
@@ -2726,12 +2999,14 @@ you're the one who accepted these terms,
 so you're the one who enabled
 this action on my part.
 所以你是一个启用
+这一行动在我的一部分。
 
 492
 00:22:33,363 --> 00:22:35,463
 All credit goes to you, Richard.
 Excuse me.
 所有的荣誉都归功于你，李察。
+请原谅我。
 
 493
 00:22:35,565 --> 00:22:37,532
@@ -2768,36 +3043,42 @@ That's pesca-pescatarian.
 - It's fish that--
 - Actually, just bring me one of those.
 -这是鱼
+实际上，我只拿了一个。
 
 500
 00:23:07,096 --> 00:23:08,529
 - Me, too.
 - Yeah, waiter, I'll take on, too.
 我也。
+-是的，服务员，我也会。
 
 501
 00:23:08,631 --> 00:23:10,865
 - I want one.
 - I want one of those also.
 •我想要一个。
+我还想要一个。
 
 502
 00:23:10,967 --> 00:23:13,100
 Wait, hey, hey,
 I'd like that also.
 等等，嘿，嘿，
+我也喜欢。
 
 503
 00:23:13,203 --> 00:23:14,869
 Excuse me, if he's
 having one, I want one.
 原谅我，如果他是
+有一个，我想要一个。
 
 504
 00:23:14,971 --> 00:23:17,772
 You're getting that,
 I want it, too. Excuse me!
 你得到了，
+我想要它，太。请原谅我！
 
 505
 00:23:19,576 --> 00:23:22,643
@@ -2824,6 +3105,7 @@ Yeah. He's hiding in the backyard.
 - Why?
 - Have you not seen the article?
 -为什么？
+-你没看过这篇文章吗？
 
 510
 00:23:33,056 --> 00:23:34,088
@@ -2835,30 +3117,35 @@ No.
 "Is Erlich Bachman the
 Dumbest Man in Tech?"
 “法国巴赫曼
+在科技最愚蠢的人吗？”
 
 512
 00:23:42,365 --> 00:23:45,032
 What the hell is this? I
 never sent anything out.
 这到底是什么？我
+从来没有发出任何东西。
 
 513
 00:23:45,134 --> 00:23:47,535
 - Who did they talk to?
 - Erlich.
 他们和谁说话了？
+-法国。
 
 514
 00:23:47,637 --> 00:23:51,072
 This is CJ's blog. He outed
 himself to protect Pied Piper.
 这是CJ的博客。他了
+自己保护吹笛手。
 
 515
 00:23:51,174 --> 00:23:53,474
 This is way harsher than
 anything you ever wrote.
 这是更严厉的比
+你曾经写过的任何东西。
 
 516
 00:23:54,677 --> 00:23:56,510
@@ -2870,6 +3157,7 @@ Plus, there's the visual component.
 Speaking of... where's
 your jacket, Jared?
 说起…在哪里
+你的夹克，贾里德？
 
 518
 00:24:05,989 --> 00:24:07,922
@@ -2879,19 +3167,21 @@ That's quite a piece.
 519
 00:24:09,092 --> 00:24:10,625
 Informative. Thorough.
-见闻。彻底的。
+信息。彻底的。
 
 520
 00:24:10,727 --> 00:24:14,195
 You certainly know how
 to make an impact.
 你当然知道
+产生影响。
 
 521
 00:24:14,297 --> 00:24:17,398
 And I guess I don't have to worry
 about any rumors coming out.
 我想我不必担心
+关于任何谣言。
 
 522
 00:24:17,500 --> 00:24:18,799
@@ -2903,30 +3193,35 @@ Those are handled.
 You know, Erlich, uh, Pied Piper
 still needs a head of PR.
 你知道，埃利希，呃，吹笛手
+还需要一头PR。
 
 524
 00:24:27,277 --> 00:24:30,111
 You seem to be well-versed
 in media outreach.
 你似乎很精通
+在媒体宣传。
 
 525
 00:24:30,213 --> 00:24:32,179
 And by your own admission
 in that article,
 并通过你自己的录取
+在那篇文章中，
 
 526
 00:24:32,282 --> 00:24:34,782
 your head is--
 what did you say?
 你的头
+你说了什么？
 
 527
 00:24:34,884 --> 00:24:38,152
 --so far up your own ass
 you can see the future.
 -那么你自己的屁股
+你可以看到未来。
 
 528
 00:24:39,022 --> 00:24:40,054
@@ -2948,6 +3243,7 @@ in a way?
 Uh, I don't know if
 you're available, so...
 嗯，我不知道
+你是可用的，所以…
 
 532
 00:24:49,832 --> 00:24:52,233
@@ -2964,6 +3260,7 @@ Well, we have a good option package.
 Um, it won't be quite what
 you had, but it's something.
 嗯，这不会是什么
+你有，但它的东西。
 
 535
 00:25:00,643 --> 00:25:02,977
@@ -2975,18 +3272,21 @@ That's very generous.
 So things could go back to
 the way they were before.
 所以事情可以回到过去
+他们以前的方式。
 
 537
 00:25:05,682 --> 00:25:08,649
 Well, no. No. Not exactly
 the way they were.
 不，不完全
+他们的方式。
 
 538
 00:25:08,751 --> 00:25:11,218
 No, no. Uh, well, this
 would be an actual job
 不，不，嗯，这
+将是一个实际的工作
 
 539
 00:25:11,321 --> 00:25:13,287
@@ -3003,6 +3303,7 @@ Would this job have a title?
 Something, say, Chief
 Evangelism Officer?
 总有一些话，说
+布道官？
 
 542
 00:25:20,063 --> 00:25:21,529
@@ -3014,6 +3315,7 @@ So, CEO?
 - Oh, my goodness!
 - What the fuck was that?
 哦，我的天！
+-他妈的是什么？
 
 544
 00:25:26,069 --> 00:25:27,268
@@ -3025,6 +3327,7 @@ Richard.
 The Pied Piper app just got
 accepted to the Hooli store.
 吹笛的应用刚
+接受的hooli店。
 
 546
 00:25:30,206 --> 00:25:32,640
@@ -3036,24 +3339,28 @@ What? Holy shit.
 Gavin Belson just presented us with
 his bare buttocks in submission.
 加文贝尔森只是我们
+他裸露的臀部。
 
 548
 00:25:37,780 --> 00:25:40,081
 We beat him. I
 don't-- I don't hug. No.
 我们打败了他。我
+不要--我不拥抱。不.
 
 549
 00:25:40,183 --> 00:25:44,318
 Um, okay, hey, look, uh, time to issue
 your first press release, right?
 嗯，好吧，嘿，看，嗯，时间到了
+你的第一次新闻稿，对吗？
 
 550
 00:25:44,420 --> 00:25:47,621
 It's very late, Richard,
 and I'm very high.
 很晚了，李察，
+我非常高。
 
 551
 00:25:47,724 --> 00:25:48,889
@@ -3070,29 +3377,33 @@ You have to do it, okay? Now.
 - It's your job.
 - Okay.
 •这是你的工作。
+-好的。
 
 554
 00:25:53,396 --> 00:25:56,063
 - All right.
 - Oh!
 •所有权利。
+-哦！
 
 555
 00:25:59,702 --> 00:26:01,435
 CJ Cantwell. Erlich Bachman.
-CJ坎特。法国巴赫曼。
+CJ坎特韦尔。埃利希巴赫曼。
 
 556
 00:26:01,537 --> 00:26:04,105
 The reason I'm calling has
 absolutely nothing to do
 我打电话的原因
+绝对没有做
 
 557
 00:26:04,207 --> 00:26:07,541
 whatsoever with the fact
 that I own half of your blog
 与事实有什么
+我有一半的你的博客
 
 558
 00:26:07,643 --> 00:26:09,443
@@ -3104,12 +3415,14 @@ and everything to do with the fact that
 I was just named Chief Evangelism
 Officer of Pied Piper.
 我刚刚被任命为首席布道
+军官的吹笛手。
 
 560
 00:26:13,850 --> 00:26:17,551
 Feel free to abbreviate that,
 whatever acronym is most economical.
 随意缩写，
+任何缩写是最经济的。
 
 561
 00:26:17,653 --> 00:26:18,620
@@ -3121,12 +3434,14 @@ And I have a story.
 Well, if it's anything like
 this last one, I am all for it.
 好吧，如果它是什么
+这最后一个，我都是为了它。
 
 563
 00:26:21,624 --> 00:26:24,125
 I am getting so many paid
 views on your tell-all.
 我得到这么多的报酬
+对你的所有的看法。
 
 564
 00:26:24,227 --> 00:26:26,327
@@ -3153,42 +3468,49 @@ Anyway, I had no choice.
 As you said, it was going to
 come out one way or another.
 正如你所说的，这将是
+一路或另一个。
 
 569
 00:26:36,205 --> 00:26:38,506
 Why? No one knew about any
 of it until you told me.
 为什么？谁也不知道
+直到你告诉我。
 
 570
 00:26:38,608 --> 00:26:41,409
 What do you mean? You said that you
 had heard from a bunch of people
 你是什么意思？你说你
+曾听过一群人
 
 571
 00:26:41,511 --> 00:26:44,712
 that there are all these rumors about
 ugly shit going down at Pied Piper.
 有所有这些谣言
+丑陋的东西在吹笛手。
 
 572
 00:26:44,814 --> 00:26:47,348
 That's literally the only reason
 that I told you any of this.
 这是真正的唯一原因
+我告诉过你了。
 
 573
 00:26:47,450 --> 00:26:51,919
 What? Oh, yeah, three
 different people told me
 什么？哦，是的，三
+不同的人告诉我
 
 574
 00:26:52,021 --> 00:26:54,355
 that Pied Piper had the ugliest
 jackets they'd ever seen.
 那吹笛人有丑
+他们曾经见过的外套。
 
 575
 00:26:54,457 --> 00:26:55,266
@@ -3200,6 +3522,7 @@ Jackets?
 I was going to do, like, a whole
 swag fail thing, you know.
 我要做的，像，一个整体
+赃物失败的事，你知道的。
 
 577
 00:26:57,794 --> 00:26:59,393
@@ -3219,7 +3542,7 @@ Who the fuck cares about jackets?
 580
 00:27:04,167 --> 00:27:05,766
 ♪ Follow me ♪
-♪跟着我♪
+♪♪你跟从我
 
 581
 00:27:05,868 --> 00:27:08,069
@@ -3266,28 +3589,31 @@ Who the fuck cares about jackets?
 ♪ Hey, babe, what are
 you tryin' to prove? ♪
 ♪嘿，宝贝，是什么
+你想证明什么呢？♪
 
 590
 00:27:38,901 --> 00:27:42,703
 ♪ It ain't true that your
 life has kicked you ♪
 ♪这不是真实的你
+生活已经把你♪
 
 591
 00:27:42,805 --> 00:27:48,542
 ♪ It's your mind and that's
 all that's trickin' you ♪
 ♪这是你的心，
+所有的花招你♪
 
 592
 00:27:49,345 --> 00:27:52,980
 ♪ So step in line ♪
-♪所以线♪步
+♪♪我步线
 
 593
 00:27:53,082 --> 00:27:57,218
 ♪ Hey, come on, babe, follow me ♪
-♪嘿，来吧，宝贝，跟我♪
+♪嘿，来吧，宝贝，跟我来。
 
 594
 00:27:57,320 --> 00:28:01,222
@@ -3312,7 +3638,7 @@ all that's trickin' you ♪
 598
 00:28:12,802 --> 00:28:16,537
 ♪ Come on, babe, follow me ♪
-♪来吧，宝贝，跟我♪
+宝贝，来，跟我来
 
 599
 00:28:16,639 --> 00:28:20,508
