@@ -1,11 +1,13 @@
 # PySubtitle
 ---
 
-# Warning
+# About
 
-该项目仅供在观看英美电影时,学习生僻单词使用,无法保证翻译正确性与流畅性. 我去除了3000个常用单词的翻译, 如果你需要自己定制个人的词库,只需要更改词库words-3000.txt
+该项目仅供在观看英美电影时,学习生僻单词使用(以及一些最新美剧暂时没有中文字幕, 可以使用这个勉强生成一个能用的版本).
 
-程序还有许多小问题, 在翻译过程中也还不够只能,另外由于本身设计原因,需要针对每个时间轴都调用一次API进行翻译,所以速度会比较慢.
+API调用的是百度翻译的, 无法保证翻译正确性与流畅性(即便调用谷歌翻译API也是如此,甚至有些数据下对中文的翻译明显不如百度). 我去除了3000个常用单词的翻译, 如果你需要自己定制个人的词库,只需要更改词库words-3000.txt
+
+程序还有许多小问题, 在翻译过程中也还不够智能,另外由于需要针对每个时间轴都调用一次API进行翻译,所以速度会比较慢(可通过合并查询翻译改进,但是我本身对速度并没有太大的需求,所以暂时还没去改动它).
 
 欢迎提交PR改进这个小玩具.
 
@@ -81,9 +83,9 @@ You can also make the text separately in two lines:
 
 ## Install
 
-- git clone git@github.com:joway/PySubtitle.git
-- cd PySubtitle
-- pip install -r requirements.txt
+    git clone git@github.com:joway/PySubtitle.git
+    cd PySubtitle
+    pip install -r requirements.txt
 
 ## Run
 
@@ -97,14 +99,20 @@ You can also make the text separately in two lines:
 - specially translate to other languages
 
     ```python
-    python subtitle.py xxx.srt en -t en
+    python subtitle.py xxx.srt -t en
     ```
 
-- double language subtitles
+-  separately in two lines
 
     ```python
     python subtitle.py xxx.srt -d
     ```
+
+    128
+    00:05:40,217 --> 00:05:42,217
+    It's further from that jacket.
+    它离那件夹克更进一步。
+
 
 # Dependence
 
@@ -119,3 +127,4 @@ Powered by [Baidu Translate API](http://api.fanyi.baidu.com/api/trans/product/in
 
 - web
 - custom setting
+- speed up
